@@ -7,4 +7,4 @@
 [remote "origin"]
   url = https://github.com/feldan/lfs
   fetch = +refs/heads/*:refs/remotes/origin/*
-  lfsurl = "https://github.com/feldan/lfs.git/info/lfs"
+  lfsurl = "http://10.0.0.214:8686/user/repo"
