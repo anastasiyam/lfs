@@ -1,0 +1,10 @@
+[core]
+  repositoryformatversion = 0
+[lfs]
+  url = "http://10.0.0.214:8686/user/repo"
+[http]
+  sslverify = false
+[remote "origin"]
+  url = https://github.com/feldan/lfs
+  fetch = +refs/heads/*:refs/remotes/origin/*
+  lfsurl = "https://github.com/feldan/lfs.git/info/lfs"
