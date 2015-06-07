@@ -22,3 +22,4 @@
 *.RTF	 diff=astextplain
 *.zip filter=lfs diff=lfs merge=lfs -crlf
 b.exe filter=lfs diff=lfs merge=lfs -crlf
+c.json filter=lfs diff=lfs merge=lfs -crlf
