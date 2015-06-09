@@ -1,7 +1,7 @@
 [core]
   repositoryformatversion = 0
 [lfs]
-  url = "http://127.0.0.1:8686/user/repo"
+  url = "http://EL_HEFE:8080/artifactory/api/lfs/gitlfs"
 [http]
   sslverify = false
 [remote "origin"]
