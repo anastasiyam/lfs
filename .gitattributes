@@ -29,3 +29,4 @@ abbacaca.bin filter=lfs diff=lfs merge=lfs -crlf
 yo.bin filter=lfs diff=lfs merge=lfs -crlf
 lol.bin filter=lfs diff=lfs merge=lfs -crlf
 lolo.bin filter=lfs diff=lfs merge=lfs -crlf
+nu.bin filter=lfs diff=lfs merge=lfs -crlf
