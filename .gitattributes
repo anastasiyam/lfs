@@ -23,3 +23,9 @@
 *.zip filter=lfs diff=lfs merge=lfs -crlf
 b.exe filter=lfs diff=lfs merge=lfs -crlf
 c.json filter=lfs diff=lfs merge=lfs -crlf
+e.bin filter=lfs diff=lfs merge=lfs -crlf
+lala.bin filter=lfs diff=lfs merge=lfs -crlf
+abbacaca.bin filter=lfs diff=lfs merge=lfs -crlf
+yo.bin filter=lfs diff=lfs merge=lfs -crlf
+lol.bin filter=lfs diff=lfs merge=lfs -crlf
+lolo.bin filter=lfs diff=lfs merge=lfs -crlf
