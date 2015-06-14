@@ -20,14 +20,3 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
-*.zip filter=lfs diff=lfs merge=lfs -crlf
-b.exe filter=lfs diff=lfs merge=lfs -crlf
-c.json filter=lfs diff=lfs merge=lfs -crlf
-e.bin filter=lfs diff=lfs merge=lfs -crlf
-lala.bin filter=lfs diff=lfs merge=lfs -crlf
-abbacaca.bin filter=lfs diff=lfs merge=lfs -crlf
-yo.bin filter=lfs diff=lfs merge=lfs -crlf
-lol.bin filter=lfs diff=lfs merge=lfs -crlf
-lolo.bin filter=lfs diff=lfs merge=lfs -crlf
-nu.bin filter=lfs diff=lfs merge=lfs -crlf
-puk.bin filter=lfs diff=lfs merge=lfs -crlf
