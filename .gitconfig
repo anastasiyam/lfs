@@ -1,9 +1,8 @@
 [core]
   repositoryformatversion = 0
-[lfs]
-  url = "http://EL_HEFE:8080/artifactory/api/lfs/gitlfs"
 [http]
   sslverify = false
 [remote "origin"]
   url = https://github.com/feldan/lfs
   fetch = +refs/heads/*:refs/remotes/origin/*
+  lfsurl = "http://EL_HEFE:8080/artifactory/api/lfs/gitlfs"
