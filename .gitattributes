@@ -20,3 +20,9 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
+la.bin filter=lfs diff=lfs merge=lfs -crlf
+lala.bin filter=lfs diff=lfs merge=lfs -crlf
+CentOS-7-x86_64-DVD-1503-01.iso filter=lfs diff=lfs merge=lfs -crlf
+debian-live-8.1.0-amd64-kde-desktop.iso filter=lfs diff=lfs merge=lfs -crlf
+test.bin filter=lfs diff=lfs merge=lfs -crlf
+newb.bin filter=lfs diff=lfs merge=lfs -crlf

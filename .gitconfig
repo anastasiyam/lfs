@@ -3,7 +3,7 @@
 [http]
   sslverify = false
 [lfs]
-  url = http://192.168.56.1:8081/artifactory/api/lfs/gitlfs
+  url = https://10.0.0.150/artifactory/api/lfs/gitlfs
 [remote "origin"]
   url = https://github.com/feldan/lfs
   fetch = +refs/heads/*:refs/remotes/origin/*
